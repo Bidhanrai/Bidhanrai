@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bidhan Rai, a cross platform mobile app developer.
+I am Bidhan Rai, a cross platform Mobile App Developer.
 
 <!--
 **Bidhanrai/Bidhanrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
