@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am Bidhan Rai, a cross platform Mobile App Developer using Flutter.
+I am Bidhan Rai, a cross platform Mobile App Developer.
 
-I am currently learning and exploring iOS swift
+- I use Flutter
+- I am currently learning and exploring iOS swift
 
 
 <!-- **Bidhanrai/Bidhanrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
