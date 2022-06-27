@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Bidhan Rai, a cross platform Mobile App Developer.
+I am Bidhan, a cross platform Mobile App Developer.
 
 - I use Flutter
 - I am currently learning and exploring iOS swift
