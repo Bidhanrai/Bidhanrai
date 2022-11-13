@@ -2,8 +2,8 @@
 I am Bidhan, a cross platform Mobile App Developer.
 
 - I Develop Android and iOS apps with Flutter
-- I am a Freelancer in Fiver (Flutter Developer) 
-- https://www.fiverr.com/users/bidhan_rai/
+- I am a Freelancer in Fiver. Reach me out here to hire me https://www.fiverr.com/users/bidhan_rai/
+- I am learning Django
 - I am currently exploring native technologies more (Swift, SwiftUi, Kotlin)
 
 
