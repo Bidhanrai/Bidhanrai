@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Bidhan, a cross platform Mobile App Developer.
 
-- I Develop Android, iOS, Web apps with Flutter
+- I develop Android, iOS, Web apps with Flutter
 - I am learning Django
 - I am learning UI/UX
 - I am currently exploring native technologies more (Swift, SwiftUi, Kotlin)
