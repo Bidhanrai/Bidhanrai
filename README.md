@@ -5,6 +5,7 @@ I am Bidhan, a cross platform Mobile App Developer.
 - I am learning Django
 - I am learning UI/UX
 - I am currently exploring native technologies more (Swift, SwiftUi, Kotlin)
+- Reach me out here: https://www.linkedin.com/in/bidhan-rai-382589153/
 
 
 <!-- **Bidhanrai/Bidhanrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
